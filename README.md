@@ -8,7 +8,7 @@ um projeto envolvendo Aprendizado de Máquina Supervisionado utilizando Redes Ne
 como modelo de referência.
 
 ## Projeto Escolhido
-A equipe optou por predizer a qualidade de certos vinhos a partir de seus atributos, para isso, foi utilizado o dataset <b>Wine Quality<b>, disponível em: <https://archive.
+A equipe optou por predizer a qualidade de certos vinhos a partir de seus atributos, para isso, foi utilizado o dataset <strong>Wine Quality</strong>, disponível em: <https://archive.
 ics.uci.edu/ml/datasets/Wine+Quality>
 
 ## Objetivos
