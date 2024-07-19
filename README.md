@@ -1,4 +1,5 @@
 #Redes Neurais Artificiais - Atividade 3
+
 ##Alunos: Beatriz Guedes da Silva <br> Carlos Eugênio Ferreira Neto
 ##Sobre o trabalho 
 A equipe deve desenvolver de maneira autônoma todas as etapas de
